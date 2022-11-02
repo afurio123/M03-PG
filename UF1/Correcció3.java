@@ -1,5 +1,6 @@
 package cat.Primera_practica;
-//Correcció a Daniel Lora
+//Correcció a Daniel Lora Exercicisi 1
+//Link Video debug: 
 import java.util.Scanner;
 //Daniel Lora
 //Nom:
