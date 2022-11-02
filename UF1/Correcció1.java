@@ -1,5 +1,5 @@
 package cat.Primera_practica;
-//Correcció a Albert Martínez Ortega ;)
+//Correcció a Albert Martínez Ortega Exercisi 2
 
 import java.util.Scanner;
 //Albert Martínez
