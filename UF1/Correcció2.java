@@ -1,5 +1,5 @@
 package cat.Primera_practica;
-//Correcció a Zaida Morales
+//Correcció a Zaida Morales Exercisi 4
 
 import java.util.Scanner;
 //Zaida Morales 
